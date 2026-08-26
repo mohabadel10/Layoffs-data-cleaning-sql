@@ -71,3 +71,9 @@ layoffs-data-cleaning-sql/
 ## Conclusion
 
 This project demonstrates practical SQL skills for data cleaning and exploratory analysis, including duplicate handling, data standardization, missing value treatment, date transformation, ranking, rolling totals, and time-based analysis.
+
+## Tableau Dashboard
+
+The cleaned World Layoffs data was visualized using Tableau Public to create an interactive dashboard covering Total Layoff by Companies, Total Layoff by industries, Total Layoff for each year, Total Layoff by Country, Total Laid Off by Year.
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/mohab.adel/viz/WorldLayoffsData/Dashboard1?publish=yes)
+![World Layoffs Data Performance Dashboard](layoff.jpg)
