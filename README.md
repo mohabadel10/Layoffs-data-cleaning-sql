@@ -70,8 +70,9 @@ The cleaned World Layoffs data was visualized using Tableau Public to create an 
 layoffs-data-cleaning-sql/
 ├── README.md
 ├── layoffs_data_cleaning.sql
+└── layoff.jpg
+├── layoffs_eda.sql
 └── layoffs.csv
-
 
 ## Conclusion
 
